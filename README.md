@@ -3,7 +3,7 @@ This repository contains scripts and instructions to access API services of COVI
 The API services consists of seven different questions (discussed in **["Fighting the COVID-19 Infodemic: Modeling the Perspective of Journalists, Fact-Checkers, Social Media Platforms, Policy Makers, and the Society"](https://aclanthology.org/2021.findings-emnlp.56/)**) that are of interest to journalists, fact-checkers, social media platforms, policymakers, and society as a whole. The models associated with API services include binary and fine-grained classification of tweets in four different languages: Arabic, Bulgarian, Dutch, and English.
 
 ## How to use?
-Please check the [client.ipynb](#client.ipynb).
+Please check the [client.ipynb](client.ipynb).
 
 ## Resources
 - API endpoints: [https://app.swaggerhub.com/apis/yifan2019/Tanbih/0.8.0#/default/post_covid19disformation__language__](https://app.swaggerhub.com/apis/yifan2019/Tanbih/0.8.0#/default/post_covid19disformation__language__)
